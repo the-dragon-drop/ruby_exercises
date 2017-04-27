@@ -36,3 +36,13 @@ Sheep.grass
 bob.name
 sue.name
 
+
+def okay
+  "trouble in little china"
+end
+
+
+
+
+
+
